@@ -87,13 +87,13 @@
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=leetcode,github,vscode"/>
 </p>
 
 ### 💻 Operating Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=windows,linux"/>
+<img src="https://skillicons.dev/icons?i=windows"/>
 </p>
 
 ---
