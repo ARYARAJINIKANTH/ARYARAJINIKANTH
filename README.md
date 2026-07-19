@@ -87,7 +87,7 @@
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=leetcode,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
 </p>
 
 ### 💻 Operating Systems
@@ -111,20 +111,12 @@
 
 ---
 
-## 📚 Student Task Manager
-
-- Login Authentication
-- Calendar
-- Notes Management
-- Reminder System
-
 ---
 
 ## 🤖 DSA Journey
 
 - Java
 - LeetCode
-- HackerRank
 - Daily Problem Solving
 
 ---
@@ -213,7 +205,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,linux,windows"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,windows"/>
 
 </p>
 
@@ -221,12 +213,11 @@
 
 # 📖 Currently Learning
 
-- ☕ Advanced Java
-- 🌱 Spring Boot
+- ☕ Java Programming
 - 📚 Data Structures & Algorithms
 - 🤖 Machine Learning
 - 🗄 SQL
-- ⚛ React
+- ⚛ Full Stack
 
 ---
 
@@ -234,7 +225,7 @@
 
 - ✅ Solve 500+ DSA Problems
 - ✅ Build 15+ Real-World Projects
-- ✅ Master Java & Spring Boot
+- ✅ Master In Java 
 - ✅ Contribute to Open Source
 - ✅ Crack a Product-Based Company
 - ✅ Strengthen AI & ML Skills
@@ -247,7 +238,7 @@
 
 🏅 Machine Learning Foundation
 
-🏅 Responsive Web Development
+🏅 Udemy courses
 
 ---
 
@@ -257,7 +248,7 @@
 
 ⭐ Student Task Manager
 
-⭐ AI & ML Mini Projects
+⭐ Hostel Complaint Management
 
 ⭐ Editing Portfolio Website
 
