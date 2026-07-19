@@ -69,7 +69,7 @@
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=,python,html,css,js"/>
 </p>
 
 ### 🚀 Frameworks
